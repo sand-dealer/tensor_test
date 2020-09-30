@@ -12,6 +12,9 @@
   ...
 </amp-story>
 
+
+* An AMP web page
+
 <amp-story>
   <amp-story-auto-ads>
     <script type="application/json">
@@ -26,6 +29,8 @@
   <amp-story-page>
   ...
 </amp-story>
+
+* A non-AMP web page
 
 <amp-story>
   <amp-story-auto-ads>
