@@ -48,7 +48,7 @@
 </amp-story>
 [/sourcecode]
 
-* A next generation
+* A next generation of web pages
 
 [sourcecode:html]
 <amp-story>
