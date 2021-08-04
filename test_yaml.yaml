@@ -1,7 +1,11 @@
+common: four
 fifty: lose
 slight: bring
 floating: true
+local: nine
 ping: 
+ - zero
+ - 0
  - pong
  - 1
  - 2
