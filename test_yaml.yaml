@@ -4,6 +4,7 @@ slight: bring
 floating: true
 local: nine
 ping: 
+ - before 0
  - zero
  - 0
  - pong
