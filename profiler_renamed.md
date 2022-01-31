@@ -1,7 +1,5 @@
 # Optimize TensorFlow performance using the Profiler
 
-[TOC]
-
 Use the tools available with the Profiler to track the performance of your
 TensorFlow models. See how your model performs on the host (CPU), the device
 (GPU), or on a combination of both the host and device(s).
