@@ -8,12 +8,10 @@ Profiling helps you understand the hardware resource consumption (time and
 memory) of the various TensorFlow operations (ops) in your model and resolve
 performance bottlenecks and ultimately, make the model execute faster.
 
-This guide will walk you through how to install the Profiler, the various tools
-available, the different modes of how the Profiler collects performance data,
-and some recommended best practices to optimize model performance.
-
 If you want to profile your model performance on Cloud TPUs, refer to the
 [Cloud TPU guide](https://cloud.google.com/tpu/docs/cloud-tpu-tools#capture_profile).
+
+Add something new.
 
 ## Install the Profiler and GPU prerequisites
 
